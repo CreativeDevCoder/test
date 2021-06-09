@@ -1,0 +1,74 @@
+[
+    {
+        "category_index": "1",
+        "category_name": "Dinner",
+        "category_cover": "https://i.pinimg.com/564x/b5/ac/9f/b5ac9f99e8a771e085a144424bf0488c.jpg",
+        "category_data": [
+            {
+                "recipes_index": "1",
+                "recipes_name": "SPLIT PEA SOUP WITH HAM",
+                "recipe_image_url": "https://www.skinnytaste.com/wp-content/uploads/2008/03/Split-Pea-Soup-with-Ham-Hock-6.jpg",
+                "recipe_description": "When I want Split Pea Soup, this is the recipe I crave! Made with ham hocks or leftover ham, this is so delicious and freezes well if you want to make freezer meals.",
+                "recipe_ingredients": "16 ounce bag of dried split peas\n2 teaspoons olive oil\n1 medium chopped onion\n2 cloves of garlic, chopped\n2 large carrots, chopped\n8 cups low sodium chicken broth\nkosher salt and pepper, to taste\n1 smoked ham hock, about 11 ounces (assuming 4 ounces meat removing bone and skin)",
+                "recipe_directions": "Step 1\nWash the peas and drain.\n\nStep 2\nIn a large pot or Dutch oven, saute onions and garlic in 2 teaspoons of oil over medium heat until soft, about 4 to 5 minutes.\n\nStep 3\nAdd the peas, carrots, ham hock and chicken broth, then cover the pot and let it come to a boil. Add salt and pepper to taste.\n\nStep 4\nOnce it boils, reduce heat and cook for about 2 hours, or until the peas are soft and thickened.\n\nStep 5\nMake sure to check the liquid and consistency. You may need to add hot water if it becomes too thick.\n\nStep 6\nRemove ham hock, discard the skin and boned and serve with ham.",
+                "recipe_note": "based on 4 ounces ham.",
+                "recipe_yield": "6 SERVINGS",
+                "recipe_prep_time": "5 mins",
+                "recipe_cook_time": "2 hrs",
+                "recipe_ready_time": "2 h 5 m ",
+                "recipe_info_serving": "11/3 cup",
+                "recipe_info_calories": "325kcal",
+                "recipe_info_carbohydrates": "54g",
+                "recipe_info_protein": "24g",
+                "recipe_info_fat": "2.5g",
+                "recipe_info_saturated_fat": "0.5g",
+                "recipe_info_cholesterol": "10mg",
+                "recipe_info_sodium": "730mg",
+                "recipe_info_fiber": "20g",
+                "recipe_info_sugar": "9g",
+                "recipe_info_blue_smart_points": "2",
+                "recipe_info_green_smart_points": "9",
+                "recipe_info_purple_smart_points": "2",
+                "recipe_info_points_plus": "7",
+                "recipe_world_cuisine": "American",
+                "recipe_label": "Dairy Free, Freezer Meals, Gluten Free, Kid Friendly"
+            }
+        ]
+    },
+	{
+        "category_index": "2",
+        "category_name": "More",
+        "category_cover": "https://i.pinimg.com/564x/b5/ac/9f/b5ac9f99e8a771e085a144424bf0488c.jpg",
+        "category_data": [
+            {
+                "recipes_index": "1",
+                "recipes_name": "BROILED TILAPIA OREGANATA",
+                "recipe_image_url": "https://www.skinnytaste.com/wp-content/uploads/2008/03/tilapia-2.png",
+                "recipe_description": "My favorite way to make tilapia when I’m looking for a quick weeknight meal.",
+                "recipe_ingredients": "1 tbsp finely chopped fresh oregano or 1 tsp dried\n4 5 oz tilapia fillets\n1/2 tsp salt\n1/4 tsp fresh pepper\n4 tsp olive oil\n1 garlic clove, minced\n2 tbsp whole wheat seasoned breadcrumbs",
+                "recipe_directions": "Step 1\nPreheat broiler.\n\nStep 2\nLine broiling pan with aluminum foil.\n\nStep 3\nRinse tilapia.\n\nStep 4\nPat fillets dry with paper towels.\n\nStep 5\nSeason with salt, pepper and oregano.\n\nStep 6\nAdd garlic, drizzle with oil and sprinkle bread crumbs on top.\n\nStep 7\nArrange fillets in a single layer on the prepared pan.\n\nStep 8\nBroil about 8 inches from the heat until the topping is browned.\n\nStep 9\nBe careful not to over cook the fish.\n\nStep 10\nServe with lime and your favorite vegetables.",
+                "recipe_note": "",
+                "recipe_yield": "4 SERVINGS",
+                "recipe_prep_time": "unknown",
+                "recipe_cook_time": "unknown",
+                "recipe_ready_time": "unknown",
+                "recipe_info_serving": "1 piece",
+                "recipe_info_calories": "196.5 kcal",
+                "recipe_info_carbohydrates": "2.4 g",
+                "recipe_info_protein": "30.1 g",
+                "recipe_info_fat": "7.7 g",
+                "recipe_info_saturated_fat": "unknown",
+                "recipe_info_cholesterol": "unknown",
+                "recipe_info_sodium": "unknown",
+                "recipe_info_fiber": "0.5 g",
+                "recipe_info_sugar": "unknown",
+                "recipe_info_blue_smart_points": "2",
+                "recipe_info_green_smart_points": "3",
+                "recipe_info_purple_smart_points": "2",
+                "recipe_info_points_plus": "5",
+                "recipe_world_cuisine": "American",
+                "recipe_label": "Kid Friendly, Low Carb"
+            }
+        ]
+    }
+]
