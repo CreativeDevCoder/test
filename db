@@ -12,7 +12,35 @@
         "category_name": "Breakfast",
         "category_cover": "https://i.pinimg.com/564x/b5/ac/9f/b5ac9f99e8a771e085a144424bf0488c.jpg",
         "category_data": [
-            
+            {
+                "recipes_index": "1",
+                "recipes_name": "EGGS WITH SCALLIONS AND TOMATOES",
+                "recipe_image_url": "https://www.skinnytaste.com/wp-content/uploads/2008/03/huevos-pericos-2-500x361.jpg",
+                "recipe_description": "Huevos Pericos are a typical Colombian breakfast typically eaten with arepa and hot cup of cocoa. The smell of sauteed scallions and tomatoes really brings me back whenever I make this for breakfast.",
+                "recipe_ingredients": "2 large eggs\n3 large egg whites\n4 diced scallions\n1 large diced tomato\n1 tsp olive oil\nsalt and pepper",
+                "recipe_directions": "Step 1\nHeat olive oil in a frying pan on a medium-low flame and add scallions and tomatoes.\n\nStep 2\nMix eggs in a bowl and season with salt and pepper.\n\nStep 3\nAdd the eggs to the frying pan and stir as they cook 2-3 minutes.",
+                "recipe_note": "",
+                "recipe_yield": "2 SERVINGS",
+                "recipe_prep_time": "unknown",
+                "recipe_cook_time": "unknown",
+                "recipe_ready_time": "unknown",
+                "recipe_info_serving": "1/2",
+                "recipe_info_calories": "155kcal",
+                "recipe_info_carbohydrates": "8.5g",
+                "recipe_info_protein": "13.9g",
+                "recipe_info_fat": "7.7g",
+                "recipe_info_saturated_fat": "unknown",
+                "recipe_info_cholesterol": "unknown",
+                "recipe_info_sodium": "unknown",
+                "recipe_info_fiber": "2.3g",
+                "recipe_info_sugar": "unknown",
+                "recipe_info_blue_smart_points": "1",
+                "recipe_info_green_smart_points": "3",
+                "recipe_info_purple_smart_points": "1",
+                "recipe_info_points_plus": "4",
+                "recipe_world_cuisine": "American",
+                "recipe_label": "Gluten Free, Keto, Low Carb, Vegetarian"
+            }
         ]
     },
 	{
