@@ -64,7 +64,35 @@
         "category_name": "Lunch",
         "category_cover": "https://i.pinimg.com/564x/b5/ac/9f/b5ac9f99e8a771e085a144424bf0488c.jpg",
         "category_data": [
-            
+            {
+                "recipes_index": "1",
+                "recipes_name": "MIXED BABY GREENS WITH BLACKBERRIES, PECANS AND CHAMPAGNE VINAIGRETTE",
+                "recipe_image_url": "https://www.skinnytaste.com/wp-content/uploads/2008/03/baby-greens-arugula-berries-and-champagne-vinaigraette.jpg",
+                "recipe_description": "This is an elegant salad full of antioxidants, fiber and vitamin E and C. Baby greens and arugula tossed with pecans and berries is a nice light salad to complement a meal. This salad relies on different textures rather than fat for flavor. Sweet, crunchy pecans, peppery arugula, and juicy berries all complimented with a light vinaigrette.",
+                "recipe_ingredients": "1 large bunch mixed baby greens\n1 medium bunch arugula\n1 package blackberries\n30 pecan halves\n\nFor the vinaigrette:\n\n2 tbsp Champagne vinegar\nkosher salt and freshly ground pepper\n1 tsp basil\n6 tbsp extra-virgin olive oil",
+                "recipe_directions": "Step 1\nFor the dressing, place vinegar in a non reactive mixing bowl with basil, salt and pepper to taste.\n\nStep 2\nDrizzle the olive oil in a slow stream, whisking until the oil is emulsified.\n\nStep 3\nToss the washed mixed greens with the vinaigrette.\n\nStep 4\nSprinkle with blackberries and pecans and serve.",
+                "recipe_note": "",
+                "recipe_yield": "8 SERVINGS",
+                "recipe_prep_time": "unknown",
+                "recipe_cook_time": "unknown",
+                "recipe_ready_time": "unknown",
+                "recipe_info_serving": "1/8",
+                "recipe_info_calories": "155.6kcal",
+                "recipe_info_carbohydrates": "6.9g",
+                "recipe_info_protein": "2.1g",
+                "recipe_info_fat": "14.1g",
+                "recipe_info_saturated_fat": "unknown",
+                "recipe_info_cholesterol": "unknown",
+                "recipe_info_sodium": "14.8mg",
+                "recipe_info_fiber": " 2.8g",
+                "recipe_info_sugar": "2.8g",
+                "recipe_info_blue_smart_points": "4",
+                "recipe_info_green_smart_points": "5",
+                "recipe_info_purple_smart_points": "4",
+                "recipe_info_points_plus": "4",
+                "recipe_world_cuisine": "American",
+                "recipe_label": "Gluten Free, Vegetarian"
+            }
         ]
     },
 	{
