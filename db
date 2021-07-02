@@ -56,7 +56,35 @@
         "category_name": "Drinks",
         "category_cover": "https://i.pinimg.com/564x/b5/ac/9f/b5ac9f99e8a771e085a144424bf0488c.jpg",
         "category_data": [
-            
+            {
+                "recipes_index": "1",
+                "recipes_name": "SKINNY CUBAN MOJITO",
+                "recipe_image_url": "https://www.skinnytaste.com/wp-content/uploads/2008/04/mojito.png",
+                "recipe_description": "Classic Cuban mojito made skinny! I have figured out an easy low point weight watcher mojito recipe that tastes great.",
+                "recipe_ingredients": "1.5 oz Bacardi Rum\n12 fresh spearmint leaves\n1/2 lime\n7 oz sprite zero or club soda\n2 tbsp. splenda",
+                "recipe_directions": "Step 1\nIn a cool tall glass, muddle the mint, splenda and lime juice.\n\nStep 2\nAdd crushed ice.\n\nStep 3\nAdd rum, soda and stir well.\n\nStep 4\nGarnish with a lime wedge and a few sprigs of mint.\n\nStep 5\nServe with a straw.",
+                "recipe_note": "Points: 2 ww points",
+                "recipe_yield": "1 SERVING",
+                "recipe_prep_time": "5 mins",
+                "recipe_cook_time": "unknown",
+                "recipe_ready_time": "5 mins",
+                "recipe_info_serving": "1glass",
+                "recipe_info_calories": "102kcal",
+                "recipe_info_carbohydrates": "5g",
+                "recipe_info_protein": "unknown",
+                "recipe_info_fat": "unknown",
+                "recipe_info_saturated_fat": "unknown",
+                "recipe_info_cholesterol": "unknown",
+                "recipe_info_sodium": "44.5mg",
+                "recipe_info_fiber": "unknown",
+                "recipe_info_sugar": "0.5g",
+                "recipe_info_blue_smart_points": "3",
+                "recipe_info_green_smart_points": "3",
+                "recipe_info_purple_smart_points": "3",
+                "recipe_info_points_plus": "1",
+                "recipe_world_cuisine": "American",
+                "recipe_label": "Dairy Free, Gluten Free"
+            }
         ]
     },
 	{
