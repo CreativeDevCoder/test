@@ -231,7 +231,35 @@
         "category_name": "Salad",
         "category_cover": "https://i.pinimg.com/564x/b5/ac/9f/b5ac9f99e8a771e085a144424bf0488c.jpg",
         "category_data": [
-            
+            {
+                "recipes_index": "1",
+                "recipes_name": "GRILLED ZUCCHINI AND TOMATO SALAD – 0 PTS",
+                "recipe_image_url": "https://www.skinnytaste.com/wp-content/uploads/2008/03/grilledzucchinisalad.jpg",
+                "recipe_description": "Spring is here and it is getting warmer out. Get your grill out and make this simple grilled zucchini salad. This is a great zero point side dish.",
+                "recipe_ingredients": "2 medium zucchini\n2 to matoes\ncooking spray\nkosher salt\nfreshly ground black pepper\na few sprigs fresh parsley",
+                "recipe_directions": "Step 1\nHeat your grill to high flame.\n\nStep 2\nWash zucchini and trim off the ends.\n\nStep 3\nUsing a mandolin or vegetable peeler slice the zucchini lengthwise in thin slices.\n\nStep 4\nLightly spray with cooking spray and season with salt and pepper, to taste.\n\nStep 5\nGrill the zucchini ribbons on 1 side, until lightly marked and wilted, about 1 to 2 minutes.\n\nStep 6\nRemove and put on a platter and let cool slightly.\n\nStep 7\nCut up tomatoes in large chunks, season with salt and pepper to taste.\n\nStep 8\nArrange on a platter with zucchini and garnish with parsley sprigs.",
+                "recipe_note": "",
+                "recipe_yield": "6 SERVINGS",
+                "recipe_prep_time": "unknown",
+                "recipe_cook_time": "unknown",
+                "recipe_ready_time": "unknown",
+                "recipe_info_serving": "1/6",
+                "recipe_info_calories": "unknown",
+                "recipe_info_carbohydrates": "unknown",
+                "recipe_info_protein": "unknown",
+                "recipe_info_fat": "unknown",
+                "recipe_info_saturated_fat": "unknown",
+                "recipe_info_cholesterol": "unknown",
+                "recipe_info_sodium": "unknown",
+                "recipe_info_fiber": "unknown",
+                "recipe_info_sugar": "unknown",
+                "recipe_info_blue_smart_points": "0",
+                "recipe_info_green_smart_points": "0",
+                "recipe_info_purple_smart_points": "0",
+                "recipe_info_points_plus": "unknown",
+                "recipe_world_cuisine": "American",
+                "recipe_label": "Gluten Free, Vegetarian"
+            }
         ]
     },
 	{
